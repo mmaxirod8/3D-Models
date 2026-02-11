@@ -1,22 +1,22 @@
-# 📐 Modelos 3D y Diseños CAD
+# 📐 3D Models
 
 Hi, I hope you´re doing well! In this repo you will find all of my 3D Models that I've made. Feel free to use them!
 
 ---
 
-## 📂 Galería de Modelos
+## 📂 Models Gallery
 
-| Modelo 3D | Tipo | Descripción |
+| 3D Model | Type | Description |
 | :--- | :---: | :--- |
-| **Arduino Uno** | Electrónica | Modelo de placa Arduino UNO y de un carry-arduino. |
-| **Cardán** | Mecanismo | Diseño funcional de una unión universal (Cardan) para transmisión de potencia. |
-| **Teclado personalizado** | Electrónica | Diseño de circuito (KiCAD) y carcasa de teclado personalizado. |
+| **Arduino Uno** | Electronics | Arduino UNO board model. |
+| **Cardan** | Mechanism | Functional design of a universal joint (Cardan) for power transmission. |
+| **Custom keyboard** | Electronics | Circuit design (KiCAD) and custom keyboard case. |
 
 ---
 
-## 🛠️ Especificaciones Técnicas
+## 🛠️ Technical Specifications
 
-### Herramientas de Diseño
-Para la creación de estos modelos se utilizaron las siguientes herramientas:
-* **Autodesk Fusion 360 / SolidWorks** 
-* **KiCAD (Diseño de placas electronicas)** 
+### Design Tools
+The following tools were used to create these models:
+* **Autodesk Fusion 360 & SolidWorks** 
+* **KiCAD (Electronic Board Design)** 
