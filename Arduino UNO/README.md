@@ -14,6 +14,4 @@
 ### 🛠️ Cómo utilizar estos archivos
 -  **Para visualizar:** Puedes abrir el archivo .stl en cualquier visor 3D online o en software como Cura o PrusaSlicer.
 
--  **Para editar:** Si necesitas modificar algún componente, importa el archivo .f3d en Autodesk Fusion 360.
-
 -  **Para integración:** El archivo STL es ideal para importar en otros softwares de diseño (como SolidWorks o Blender) y diseñar piezas que encajen con la placa real.
