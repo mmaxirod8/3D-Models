@@ -1,5 +1,4 @@
 # 📁 Contenido de la carpeta
-Basado en los archivos incluidos en este directorio:
 
 ### Modelos 3D:
 
