@@ -1,19 +1,15 @@
-# 📁 Contenido de la carpeta
+# Cardan Joint 3D Model
+Este repositorio contiene el diseño mecánico y modelado 3D de una Junta Cardan, un componente esencial en sistemas de transmisión para permitir la rotación entre ejes no alineados.
 
-### Modelos 3D:
+### 📂 Estructura de archivos
+El proyecto está organizado para facilitar tanto la edición como la fabricación:
 
-- *arduino_board_FUSION.f3d: Archivo nativo de Autodesk Fusion 360 (editable).*
-- *arduino_board_STL.stl: Formato estándar para impresión 3D o visualización rápida.*
+- FUSION/: Contiene los archivos fuente originales de Autodesk Fusion 360.
+- STL/: Archivos listos para impresión 3D o importación en otros softwares CAD.
+- Imágenes: Renders de las piezas individuales y el conjunto final.
 
-### Vistas previas (Renders):
+### Uso y Aplicaciones
+- Educación: Ideal para estudiar mecanismos de transmisión de potencia.
+- Impresión 3D: Los archivos en la carpeta STL están optimizados para ser impresos y ensamblados físicamente.
+- Diseño Mecánico: Puedes usar la carpeta FUSION para adaptar las dimensiones a tus propios proyectos de ingeniería.
 
-- *arduino board 1.png*
-- *arduino board 2.png*
-- *arduino board 3.png*
-
-### 🛠️ Cómo utilizar estos archivos
--  **Para visualizar:** Puedes abrir el archivo .stl en cualquier visor 3D online o en software como Cura o PrusaSlicer.
-
--  **Para editar:** Si necesitas modificar algún componente, importa el archivo .f3d en Autodesk Fusion 360.
-
--  **Para integración:** El archivo STL es ideal para importar en otros softwares de diseño (como SolidWorks o Blender) y diseñar piezas que encajen con la placa real.
