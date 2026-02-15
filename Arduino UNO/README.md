@@ -1,11 +1,11 @@
-# 📁 Contenido de la carpeta
+# 📟 Arduino UNO 3D Model
 
-### Modelos 3D:
+### 📌 Modelos 3D:
 
 - *arduino_board_FUSION.f3d: Archivo nativo de Autodesk Fusion 360 (editable).*
 - *arduino_board_STL.stl: Formato estándar para impresión 3D o visualización rápida.*
 
-### Vistas previas (Renders):
+### 🎞️ Vistas previas (Renders):
 
 - *arduino board 1.png*
 - *arduino board 2.png*
