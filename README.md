@@ -16,7 +16,6 @@ Hi, I hope you´re doing well! In this repo you will find all of my 3D Models th
 
 ## 🛠️ Technical Specifications
 
-
 ### Design Tools
 The following tools were used to create these models:
 * **Autodesk Fusion 360 & SolidWorks** 
