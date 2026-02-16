@@ -14,4 +14,6 @@
 ### 🛠️ How to use these files
 - **For viewing:** You can open the .stl file in any online 3D viewer or in software such as Cura or PrusaSlicer.
 
-- **For integration:** The STL file is ideal for importing into other design software (such as SolidWorks or Blender) and designing parts that fit the actual board.
+- **For integration:** The STL file is ideal for importing into other design software (such as SolidWorks or Blender) and designing parts that fit the actual board.<
+
+*In collaboration with P4H-Bionics*
