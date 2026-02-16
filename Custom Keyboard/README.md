@@ -36,6 +36,3 @@ The electronics are centered around the **Seeed XIAO RP2040**, utilizing a diode
 * **Compatibility:** Precise mounting holes for Cherry MX style switches and vertical encoder clearance.
 
 
-
----
-*Designed by [mmaxirod8](https://github.com/mmaxirod8)*
