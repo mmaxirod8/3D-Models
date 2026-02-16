@@ -2,8 +2,8 @@
 
 ### 📌 3D Models:
 
-- *arduino_board_FUSION.f3d: Archivo nativo de Autodesk Fusion 360 (editable).*
-- *arduino_board_STL.stl: Formato estándar para impresión 3D o visualización rápida.*
+- *arduino_board_FUSION.f3d: Autodesk Fusion 360 native file (editable).*
+- *arduino_board_STL.stl: Standard format for 3D printing or quick viewing.*
 
 ### 🎞️ Previews (Renders):
 
