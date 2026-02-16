@@ -1,4 +1,5 @@
 # ⚙️ Cardan Joint 3D Model
+This repository contains the mechanical design and 3D modeling of a Cardan Joint, an essential component in transmission systems to allow rotation between non-aligned shafts.
 
 ### 📂 File Structure
 The project is organized to facilitate both editing and manufacturing:
