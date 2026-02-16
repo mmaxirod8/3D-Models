@@ -1,15 +1,14 @@
 # ⚙️ Cardan Joint 3D Model
-Este repositorio contiene el diseño mecánico y modelado 3D de una Junta Cardan, un componente esencial en sistemas de transmisión para permitir la rotación entre ejes no alineados.
 
-### 📂 Estructura de archivos
-El proyecto está organizado para facilitar tanto la edición como la fabricación:
+### 📂 File Structure
+The project is organized to facilitate both editing and manufacturing:
 
-- `FUSION/`: Contiene los archivos fuente originales de Autodesk Fusion 360.
-- `STL/`: Archivos listos para impresión 3D o importación en otros softwares CAD.
-- `Imágenes`: Renders de las piezas individuales y el conjunto final.
+- `FUSION/`: Contains the original Autodesk Fusion 360 source files.
+- `STL/`: Files ready for 3D printing or import into other CAD software.
+- `Images`: Renders of the individual parts and the final assembly.
 
-### 🦾 Uso y Aplicaciones
-- **Educación:** Ideal para estudiar mecanismos de transmisión de potencia.
-- **Impresión 3D:** Los archivos en la carpeta STL están optimizados para ser impresos y ensamblados físicamente.
-- **Diseño Mecánico:** Puedes usar la carpeta FUSION para adaptar las dimensiones a tus propios proyectos de ingeniería.
+### 🦾 Uses and Applications
+- **Education:** Ideal for studying power transmission mechanisms.
+- **3D Printing:** The files in the STL folder are optimized for printing and physical assembly.
+- **Mechanical Design:** You can use the FUSION folder to adapt the dimensions to your own engineering projects.
 
