@@ -32,7 +32,9 @@ The electronics are centered around the **Seeed XIAO RP2040**, utilizing a diode
 * **Peripheral Support:** Dedicated I2C headers for the OLED module and GPIO mapping for the rotary encoder switch.
 
 ### 📦 3D Modeling
+* The layer-by-layer construction of the keyboard can be seen through the `.f3d` files.
 * **Enclosure:** Custom-designed chassis to house the PCB securely.
 * **Compatibility:** Precise mounting holes for Cherry MX style switches and vertical encoder clearance.
+
 
 
