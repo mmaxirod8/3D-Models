@@ -6,11 +6,11 @@ Hi, I hope you´re doing well! In this repo you will find all of my 3D Models th
 
 ## 📂 Models Gallery
 
-| 3D Model | Type | Description |
-| :--- | :---: | :--- |
-| **Arduino Uno** | Electronics | Arduino UNO board model. |
-| **Cardan** | Mechanism | Functional design of a universal joint (Cardan) for power transmission. |
-| **Custom keyboard** | Electronics | Circuit design (KiCAD) and custom keyboard case. |
+| 3D Model | Software | Type | Description |
+| :--- | :---: | :---: | :--- |
+| **Arduino Uno** | Autodesk Fusion | Electronics | Arduino UNO board model. |
+| **Cardan** | SolidWorks | Mechanism | Functional design of a universal joint (Cardan) for power transmission. |
+| **Custom keyboard** | Autodesk Fusion | Electronics | Circuit design (KiCAD) and custom keyboard case. |
 
 ---
 
