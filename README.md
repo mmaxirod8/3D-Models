@@ -7,12 +7,12 @@
 | 3D Model | Software | Type | Description |
 | :--- | :---: | :---: | :--- |
 | **Arduino Uno** | Autodesk Fusion | Electronics | Arduino UNO board model |
-| **Cardan** | SolidWorks | Mechanism | Functional design of a universal joint (Cardan) for power transmissio |
+| **Cardan** | SolidWorks | Mechanism | Functional design of a universal joint (Cardan) for power transmission |
 | **Custom mini Keyboard** | Autodesk Fusion | Electronics | Circuit design (KiCAD) and custom keyboard case |
 | **Meshtastic/Meshcore Device Cases** (📌 in progress) | Autodesk Fusion | Electronics | Cases for some models of Meshtastic/Meshcore devices |
-| **ESP32 Deauther/Marauder Cases** (📌 in progress) | Autodesk Fusion | Electronics | Cases for a ESP32 Deauther (Cybersecurity device) |
+| **ESP32 Deauther/Marauder Cases** (📌 in progress) | Autodesk Fusion | Electronics | Cases for a ESP32 Deauther & Marauder (Cybersecurity device) |
 | **Pwnagotchi Cases** (📌 in progress) | Autodesk Fusion | Electronics | Cases for a Pwnagotchi with Raspberry Pi Zero 2 W (Cybersecurity device) |
-| **Cyber Deck** (📌 in progress) | Autodesk Fusion | Mechanism | A custom mini PC case |
+| **Cyber Deck** (📌 in progress) | Autodesk Fusion | Mechanism | A custom portable mini PC case |
 
 <br>
 
