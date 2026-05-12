@@ -11,8 +11,8 @@
 | **Custom keyboard** | Autodesk Fusion | Electronics | Circuit design (KiCAD) and custom keyboard case |
 | **Meshtastic/Meshcore Cases** (📌 in progress) | Autodesk Fusion | Electronics | Cases for some models of Meshtastic/Meshcore devices |
 | **ESP32 Deauther Cases** (📌 in progress) | Autodesk Fusion | Electronics | Cases for a ESP32 Deauther (Cybersecurity device) |
-| **Pwnagotchi Cases** | Autodesk Fusion | Electronics | Cases for a Pwnagotchi with Raspberry Pi Zero 2 W (Cybersecurity device) |
-| **Cyber Deck** | Autodesk Fusion | Mechanism | A custom mini PC case |
+| **Pwnagotchi Cases** (📌 in progress) | Autodesk Fusion | Electronics | Cases for a Pwnagotchi with Raspberry Pi Zero 2 W (Cybersecurity device) |
+| **Cyber Deck** (📌 in progress) | Autodesk Fusion | Mechanism | A custom mini PC case |
 
 ---
 
